@@ -28,7 +28,7 @@ Team Lead, Android Developer
 
 ## [**StudServices**](https://github.com/StudServices/StudServices-Android)
 ### _Описание:_
-мобильное приложение - платформа
+мобильное приложение - платформа для взаимопомощи студентов
 ### _Роль:_
 Androd Developer
 ### _Стэк:_ 
