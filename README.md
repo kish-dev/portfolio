@@ -33,7 +33,7 @@ Team Lead, Android Developer
 Androd Developer
 ### _Стэк:_ 
 * Kotlin
-* MVVM
+* MVP
 * Dagger
 * Room
 * Retrofit
